@@ -1,0 +1,14 @@
+
+INVOICE #1024
+Date: 2025-05-12
+
+Vendor: Acme Corp Supplies
+Address: 123 Business Rd, Tech City
+
+Items:
+1. Office Chairs x 5  - $500.00
+2. Desk Lamps x 10    - $200.00
+
+Total: $700.00
+
+Notes: Please pay within 30 days.
